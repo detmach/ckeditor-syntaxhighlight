@@ -1,0 +1,22 @@
+CKEDITOR.plugins.setLang('syntaxhighlight', 'tr', {
+title:'Bir Kod Parçacığı Ekle veya Güncelle',
+contextTitle:'Kaynak Kodu Düzenle',
+sourceTab:'Kaynak Kodu',
+langLbl:'Dil Seç',
+sourceTextareaEmptyError:'Kaynak Kodu\'t boş.',
+advancedTab:'Deneyim',
+hideGutter:'Gutteri Gizle',
+hideGutterLbl:'Gutter ve Sıra sayısını Gizle.',
+hideControls:'Kontrolleri Gizle',
+hideControlsLbl:'Hide code controls at the top of the code block.',
+collapse:'Collapse',
+collapseLbl:'Collapse the code block by default. (controls need to be turned on)',
+codeTitleLbl:'Use a Code Title',
+showColumns:'Show columns',
+showColumnsLbl:'Show row columns in the first line.',
+lineWrap:'Disable line wrapping',
+lineWrapLbl:'Switch off line wrapping.',
+lineCount:'Default line count',
+highlight:'Highlight lines',
+highlightLbl:'Enter a comma seperated lines of lines you want to highlight, eg <em style="font-style:italic">3,10,15</em>.'
+});
